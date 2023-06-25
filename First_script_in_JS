@@ -1,0 +1,5 @@
+console.log("Olá mundo, esse é o meu primeiro script em JS");
+var valor1 = 10;
+var valor2 = 40;
+var total = valor1 + valor2;
+console.log(valor1, "+", valor2, "=", total);
